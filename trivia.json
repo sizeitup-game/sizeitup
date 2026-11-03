@@ -1,0 +1,782 @@
+{
+  "about": "Size trivia from SizeItUp (https://sizeitup.us). Every size comes from the game's sourced data; each object links to its SizeItUp page and its primary source.",
+  "license": "CC BY 4.0",
+  "questions": [
+    {
+      "id": 1,
+      "game": "Classic",
+      "question": "How tall is the Eiffel Tower?",
+      "answer": "330 m including its antennas. It was 312 m tall when it opened.",
+      "objects": [
+        {
+          "name": "Eiffel Tower",
+          "size_m": 330,
+          "page": "https://sizeitup.us/sizes/eiffel-tower",
+          "source": "https://www.toureiffel.paris/fr/le-monument/chiffres-cle"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "game": "Classic",
+      "question": "How many credit cards, laid end to end along their long side, would span the mouth of a full-size football goal?",
+      "answer": "About 86. The goal is 7.32 m between the posts, and a credit card is 85.60 mm wide.",
+      "objects": [
+        {
+          "name": "Football goal",
+          "size_m": 7.32,
+          "page": "https://sizeitup.us/sizes/football-goal",
+          "source": "https://www.theifab.com/laws/latest/the-field-of-play/"
+        },
+        {
+          "name": "Credit card",
+          "size_m": 0.0856,
+          "page": "https://sizeitup.us/sizes/credit-card",
+          "source": "https://www.iso.org/standard/31432.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "game": "Classic",
+      "question": "How many Statues of Liberty (statue only, no pedestal) would you stack to reach the top of the Burj Khalifa?",
+      "answer": "About 18. The statue is 46 m to the torch; the Burj Khalifa is 828 m to the top of its spire.",
+      "objects": [
+        {
+          "name": "Burj Khalifa",
+          "size_m": 828,
+          "page": "https://sizeitup.us/sizes/burj-khalifa",
+          "source": "https://www.burjkhalifa.ae/the-tower/architecture-design/"
+        },
+        {
+          "name": "Statue of Liberty",
+          "size_m": 46.05,
+          "page": "https://sizeitup.us/sizes/statue-of-liberty",
+          "source": "https://www.nps.gov/stli/learn/historyculture/statue-statistics.htm"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "game": "Classic",
+      "question": "Which coin is smaller across: a US dime or a US penny?",
+      "answer": "The dime. It's 17.91 mm across, smaller than the penny (19.05 mm), even though it's worth ten times as much.",
+      "objects": [
+        {
+          "name": "Dime",
+          "size_m": 0.01791,
+          "page": "https://sizeitup.us/sizes/dime",
+          "source": "https://www.usmint.gov/learn/coins-and-medals/circulating-coins/coin-specifications"
+        },
+        {
+          "name": "Penny",
+          "size_m": 0.01905,
+          "page": "https://sizeitup.us/sizes/penny",
+          "source": "https://www.usmint.gov/learn/coins-and-medals/circulating-coins/coin-specifications"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "game": "Classic",
+      "question": "How many times wider is a golf hole than a golf ball?",
+      "answer": "About 2.5 times. The hole is 108 mm (4¼ in) across and the ball 42.67 mm.",
+      "objects": [
+        {
+          "name": "Golf hole",
+          "size_m": 0.108,
+          "page": "https://sizeitup.us/sizes/golf-hole",
+          "source": "https://assets.randa.org/c42c7bf4-dca7-00ea-4f2e-373223f80f76/48712d47-76dc-4fd3-add1-53972c021580/2023%20Rules%20of%20Golf.pdf"
+        },
+        {
+          "name": "Golf ball",
+          "size_m": 0.04267,
+          "page": "https://sizeitup.us/sizes/golf-ball",
+          "source": "https://www.usga.org/equipment-standards/equipment-rules-2019/equipment-rules/part-4-rule-4.html"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "game": "Classic",
+      "question": "Which is taller: the Great Pyramid of Giza today, or the Washington Monument?",
+      "answer": "The Washington Monument, at 169.05 m. The Great Pyramid is about 137.5 m today (about 146.5 m when it was finished).",
+      "objects": [
+        {
+          "name": "Washington Monument",
+          "size_m": 169.046,
+          "page": "https://sizeitup.us/sizes/washington-monument",
+          "source": "https://www.ngs.noaa.gov/surveys/ngs/wm2013/"
+        },
+        {
+          "name": "Great Pyramid of Giza",
+          "size_m": 137.5,
+          "page": "https://sizeitup.us/sizes/great-pyramid",
+          "source": "https://www.guinnessworldrecords.com/world-records/tallest-pyramid"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "game": "Classic",
+      "question": "How many FIBA basketball courts, end to end, fit along an NFL field including both end zones?",
+      "answer": "About 3.9. The NFL field is 109.7 m (360 ft) long and a FIBA court is 28 m.",
+      "objects": [
+        {
+          "name": "American football field",
+          "size_m": 109.728,
+          "page": "https://sizeitup.us/sizes/nfl-field",
+          "source": "https://static.www.nfl.com/image/upload/fl_attachment/league/tqivdkzt9mu6wdgsh1ku.pdf"
+        },
+        {
+          "name": "Basketball court",
+          "size_m": 28,
+          "page": "https://sizeitup.us/sizes/basketball-court",
+          "source": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2026-v1-1.pdf"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "game": "Classic",
+      "question": "How tall is the Leaning Tower of Pisa compared with the Statue of Liberty (statue only)?",
+      "answer": "They're close: the tower is about 56 m tall above the ground, the statue 46 m to the torch. The tower is about 1.2 times as tall.",
+      "objects": [
+        {
+          "name": "Leaning Tower of Pisa",
+          "size_m": 56,
+          "page": "https://sizeitup.us/sizes/leaning-tower-of-pisa",
+          "source": "https://www.turismo.pisa.it/en/culture/detail/Piazza-del-Duomo-La-torre-pendente"
+        },
+        {
+          "name": "Statue of Liberty",
+          "size_m": 46.05,
+          "page": "https://sizeitup.us/sizes/statue-of-liberty",
+          "source": "https://www.nps.gov/stli/learn/historyculture/statue-statistics.htm"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "game": "Cosmic Scale",
+      "question": "How many Earths would fit side by side across Jupiter?",
+      "answer": "About 11. Jupiter is 142,984 km across at the equator; Earth is 12,756 km.",
+      "objects": [
+        {
+          "name": "Jupiter",
+          "size_m": 142984000,
+          "page": "https://sizeitup.us/sizes/jupiter",
+          "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/"
+        },
+        {
+          "name": "Earth",
+          "size_m": 12756000,
+          "page": "https://sizeitup.us/sizes/earth",
+          "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "game": "Cosmic Scale",
+      "question": "How many Earths would fit across the Sun?",
+      "answer": "About 109. The Sun is about 1.39 million km across.",
+      "objects": [
+        {
+          "name": "The Sun",
+          "size_m": 1391400000,
+          "page": "https://sizeitup.us/sizes/sun",
+          "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html"
+        },
+        {
+          "name": "Earth",
+          "size_m": 12756000,
+          "page": "https://sizeitup.us/sizes/earth",
+          "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "game": "Cosmic Scale",
+      "question": "Which is bigger: the planet Mercury or Jupiter's moon Ganymede?",
+      "answer": "Ganymede. At 5,262 km across it's the largest moon in the Solar System and wider than Mercury (4,879 km).",
+      "objects": [
+        {
+          "name": "Ganymede",
+          "size_m": 5262400,
+          "page": "https://sizeitup.us/sizes/ganymede",
+          "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/joviansatfact.html"
+        },
+        {
+          "name": "Mercury",
+          "size_m": 4879000,
+          "page": "https://sizeitup.us/sizes/mercury",
+          "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "game": "Cosmic Scale",
+      "question": "How many Mount Everests tall is Olympus Mons on Mars?",
+      "answer": "About 2.4. Olympus Mons rises about 21.2 km above the Mars reference level; Everest is 8,848.86 m above sea level.",
+      "objects": [
+        {
+          "name": "Olympus Mons",
+          "size_m": 21200,
+          "page": "https://sizeitup.us/sizes/olympus-mons",
+          "source": "https://ntrs.nasa.gov/api/citations/20210023957/downloads/Mars-GRAM%20User%20Guide.pdf"
+        },
+        {
+          "name": "Mount Everest",
+          "size_m": 8848.86,
+          "page": "https://sizeitup.us/sizes/everest",
+          "source": "https://www.aljazeera.com/news/2020/12/8/mt-everest-nepal-china-announce-revised-height-at-8848-metres"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "game": "Cosmic Scale",
+      "question": "Is Pluto bigger or smaller than our Moon?",
+      "answer": "Smaller. Pluto is 2,376 km across and the Moon 3,475 km.",
+      "objects": [
+        {
+          "name": "Pluto",
+          "size_m": 2376000,
+          "page": "https://sizeitup.us/sizes/pluto",
+          "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/"
+        },
+        {
+          "name": "The Moon",
+          "size_m": 3475000,
+          "page": "https://sizeitup.us/sizes/moon",
+          "source": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "game": "Cosmic Scale",
+      "question": "Which is taller: SpaceX's Starship (full stack) or the Saturn V Moon rocket?",
+      "answer": "Starship, at 124 m (407 ft). The Saturn V was 111 m (363 ft).",
+      "objects": [
+        {
+          "name": "Starship",
+          "size_m": 124,
+          "page": "https://sizeitup.us/sizes/starship",
+          "source": "https://www.spacex.com/vehicles/starship/"
+        },
+        {
+          "name": "Saturn V",
+          "size_m": 111,
+          "page": "https://sizeitup.us/sizes/saturn-v",
+          "source": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-saturn-v-grades-5-8/"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "game": "Cosmic Scale",
+      "question": "How does the International Space Station compare with an American football field?",
+      "answer": "About the same length. The ISS is 109 m end to end; an NFL field with both end zones is 109.7 m.",
+      "objects": [
+        {
+          "name": "International Space Station",
+          "size_m": 109,
+          "page": "https://sizeitup.us/sizes/iss",
+          "source": "https://www.nasa.gov/international-space-station/space-station-facts-and-figures/"
+        },
+        {
+          "name": "American football field",
+          "size_m": 109.728,
+          "page": "https://sizeitup.us/sizes/nfl-field",
+          "source": "https://static.www.nfl.com/image/upload/fl_attachment/league/tqivdkzt9mu6wdgsh1ku.pdf"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "game": "Cosmic Scale",
+      "question": "How many Grand Canyons long is Valles Marineris on Mars?",
+      "answer": "About 8.7. Valles Marineris runs about 3,870 km, as far as New York to Los Angeles; the Grand Canyon is 446 km long.",
+      "objects": [
+        {
+          "name": "Valles Marineris",
+          "size_m": 3870000,
+          "page": "https://sizeitup.us/sizes/valles-marineris",
+          "source": "https://science.nasa.gov/mars/facts/"
+        },
+        {
+          "name": "Grand Canyon",
+          "size_m": 446000,
+          "page": "https://sizeitup.us/sizes/grand-canyon",
+          "source": "https://www.nps.gov/grca/faqs.htm"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "game": "Cosmic Scale",
+      "question": "How big is the asteroid Bennu?",
+      "answer": "About 484 m across, a little taller than the Empire State Building.",
+      "objects": [
+        {
+          "name": "Bennu",
+          "size_m": 484,
+          "page": "https://sizeitup.us/sizes/bennu",
+          "source": "https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=101955"
+        },
+        {
+          "name": "Empire State Building",
+          "size_m": 443.2,
+          "page": "https://sizeitup.us/sizes/empire-state-building",
+          "source": "https://www.esbnyc.com/about/facts-figures"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "game": "Prehistoric Giants",
+      "question": "How many average US men, lying head to toe, would match the length of SUE the T. rex?",
+      "answer": "About 7.1. SUE is 12.3 m (40.5 ft) long; the average US man is 175 cm tall.",
+      "objects": [
+        {
+          "name": "Tyrannosaurus rex",
+          "size_m": 12.34,
+          "page": "https://sizeitup.us/sizes/t-rex",
+          "source": "https://www.fieldmuseum.org/blog/how-well-do-you-know-sue"
+        },
+        {
+          "name": "Adult man",
+          "size_m": 1.75,
+          "page": "https://sizeitup.us/sizes/human",
+          "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "game": "Prehistoric Giants",
+      "question": "How many times taller is the Giraffatitan skeleton in Berlin than a tall male giraffe?",
+      "answer": "About 2.4 times. The Berlin skeleton stands 13.27 m tall, the tallest mounted dinosaur in the world; tall male giraffes reach 5.5 m.",
+      "objects": [
+        {
+          "name": "Giraffatitan",
+          "size_m": 13.27,
+          "page": "https://sizeitup.us/sizes/giraffatitan",
+          "source": "https://www.guinnessworldrecords.com/world-records/tallest-dinosaur-skeleton-mounted"
+        },
+        {
+          "name": "Giraffe",
+          "size_m": 5.5,
+          "page": "https://sizeitup.us/sizes/giraffe",
+          "source": "https://animals.sandiegozoo.org/animals/giraffe"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "game": "Prehistoric Giants",
+      "question": "How many wandering albatrosses' wingspans make one Quetzalcoatlus wingspan?",
+      "answer": "About 3.5. Quetzalcoatlus spanned an estimated 10 to 11 m; the albatross spans 2.5 to 3.5 m.",
+      "objects": [
+        {
+          "name": "Quetzalcoatlus",
+          "size_m": 10.5,
+          "page": "https://sizeitup.us/sizes/quetzalcoatlus",
+          "source": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0013982"
+        },
+        {
+          "name": "Wandering albatross",
+          "size_m": 3,
+          "page": "https://sizeitup.us/sizes/wandering-albatross",
+          "source": "https://www.nhm.ac.uk/discover/what-is-the-biggest-bird-in-the-world.html"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "game": "Prehistoric Giants",
+      "question": "Was Velociraptor bigger than a person?",
+      "answer": "Not really. It was about 1.8 m from nose to tail, much of it tail, close to the 175 cm average height of a US man.",
+      "objects": [
+        {
+          "name": "Velociraptor",
+          "size_m": 1.8,
+          "page": "https://sizeitup.us/sizes/velociraptor",
+          "source": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
+        },
+        {
+          "name": "Adult man",
+          "size_m": 1.75,
+          "page": "https://sizeitup.us/sizes/human",
+          "source": "https://www.cdc.gov/nchs/fastats/body-measurements.htm"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "game": "Prehistoric Giants",
+      "question": "How much longer was Titanoboa than the longest reticulated python on record?",
+      "answer": "About 1.7 times as long. Titanoboa is estimated at 13 m from its fossil vertebrae; the record python, Medusa, measured 7.67 m in 2011.",
+      "objects": [
+        {
+          "name": "Titanoboa",
+          "size_m": 13,
+          "page": "https://sizeitup.us/sizes/titanoboa",
+          "source": "https://pubmed.ncbi.nlm.nih.gov/19194448/"
+        },
+        {
+          "name": "Reticulated python",
+          "size_m": 7.67,
+          "page": "https://sizeitup.us/sizes/reticulated-python",
+          "source": "https://www.guinnessworldrecords.com/world-records/longest-snake-ever-(captivity)"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "game": "Prehistoric Giants",
+      "question": "Which is longer: a large blue whale or Dippy the Diplodocus?",
+      "answer": "The blue whale, just. Large adults reach about 27 m; Dippy is 26 m from head to tail.",
+      "objects": [
+        {
+          "name": "Blue whale",
+          "size_m": 27.1,
+          "page": "https://sizeitup.us/sizes/blue-whale",
+          "source": "https://peerj.com/articles/715/"
+        },
+        {
+          "name": "Diplodocus",
+          "size_m": 26,
+          "page": "https://sizeitup.us/sizes/diplodocus",
+          "source": "https://www.nhm.ac.uk/discover/britains-biggest-jurassic-dinosaurs.html"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "game": "Prehistoric Giants",
+      "question": "Was the saber-toothed cat bigger than a lion?",
+      "answer": "Shorter, at least. Smilodon fatalis stood about 1 m at the shoulder; an adult male lion averages 1.2 m.",
+      "objects": [
+        {
+          "name": "Saber-toothed cat",
+          "size_m": 1,
+          "page": "https://sizeitup.us/sizes/smilodon",
+          "source": "https://www.sdnhm.org/exhibitions/fossil-mysteries/fossil-field-guide-a-z/sabertooth-cat/"
+        },
+        {
+          "name": "Lion",
+          "size_m": 1.2,
+          "page": "https://sizeitup.us/sizes/lion",
+          "source": "https://animaldiversity.org/accounts/Panthera_leo/"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "game": "Prehistoric Giants",
+      "question": "Was a woolly mammoth taller than an African elephant?",
+      "answer": "No, a little shorter. An adult male mammoth averaged about 2.8 m at the shoulder; an adult male African bush elephant averages 3.2 m.",
+      "objects": [
+        {
+          "name": "Woolly mammoth",
+          "size_m": 2.8,
+          "page": "https://sizeitup.us/sizes/mammoth",
+          "source": "https://www.app.pan.pl/archive/published/app61/app001362014.pdf"
+        },
+        {
+          "name": "African bush elephant",
+          "size_m": 3.2,
+          "page": "https://sizeitup.us/sizes/elephant",
+          "source": "https://www.app.pan.pl/archive/published/app61/app001362014.pdf"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "game": "Kitchen Table",
+      "question": "How many long grains of rice, end to end, make up the length of a baguette?",
+      "answer": "About 73. A milled long grain is 7.15 mm long; a contest baguette is 50 to 55 cm.",
+      "objects": [
+        {
+          "name": "Baguette",
+          "size_m": 0.525,
+          "page": "https://sizeitup.us/sizes/baguette",
+          "source": "https://presse.paris.fr/agenda/grand-prix-de-la-meilleure-baguette-de-la-ville-de-paris-2026"
+        },
+        {
+          "name": "Grain of rice",
+          "size_m": 0.00715,
+          "page": "https://sizeitup.us/sizes/rice-grain",
+          "source": "https://aaes.uada.edu/row-crops/rice/"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "game": "Kitchen Table",
+      "question": "How big is a Neapolitan pizza supposed to be?",
+      "answer": "Between 22 and 35 cm across: that's what the AVPN's rules for true Neapolitan pizza allow.",
+      "objects": [
+        {
+          "name": "Neapolitan pizza",
+          "size_m": 0.285,
+          "page": "https://sizeitup.us/sizes/neapolitan-pizza",
+          "source": "https://www.pizzanapoletana.org/en/ricetta_pizza_napoletana"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "game": "Kitchen Table",
+      "question": "How many peppercorns would line up along one roasted coffee bean?",
+      "answer": "About 2.1. A black peppercorn is about 4.9 mm across; an arabica coffee bean is about 1 cm long.",
+      "objects": [
+        {
+          "name": "Coffee bean",
+          "size_m": 0.01,
+          "page": "https://sizeitup.us/sizes/coffee-bean",
+          "source": "https://iopscience.iop.org/article/10.1088/1755-1315/1246/1/012056/pdf"
+        },
+        {
+          "name": "Black peppercorn",
+          "size_m": 0.004865,
+          "page": "https://sizeitup.us/sizes/peppercorn",
+          "source": "https://updatepublishing.com/journal/index.php/josac/article/view/5018"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "game": "Kitchen Table",
+      "question": "How many times taller is a 750 ml wine bottle than a 12 oz soda can?",
+      "answer": "About 2.5 times. The bottle is 30 cm tall; the can is 122 mm.",
+      "objects": [
+        {
+          "name": "Wine bottle",
+          "size_m": 0.3005,
+          "page": "https://sizeitup.us/sizes/wine-bottle",
+          "source": "https://www.saverglass.com/en/our-products/catalog-still-wine/bordelaise-tradition-75-cl-plate-unique"
+        },
+        {
+          "name": "Soda can",
+          "size_m": 0.12222,
+          "page": "https://sizeitup.us/sizes/soda-can",
+          "source": "https://www.crowncork.com/beverage-packaging/products/beverage-cans/12oz-355ml-standard"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "game": "Kitchen Table",
+      "question": "How many sugar cubes, lined up, would span a 10½-inch dinner plate?",
+      "answer": "About 17. A sugar cube is 16 by 16 by 11 mm; the plate is 26.7 cm across.",
+      "objects": [
+        {
+          "name": "Dinner plate",
+          "size_m": 0.2667,
+          "page": "https://sizeitup.us/sizes/dinner-plate",
+          "source": "https://fiestafactorydirect.com/products/dinner-plate-466"
+        },
+        {
+          "name": "Sugar cube",
+          "size_m": 0.016,
+          "page": "https://sizeitup.us/sizes/sugar-cube",
+          "source": "https://www.dpma.de/english/our_office/publications/milestones/inventionsthatmadehistory/sugarcubes/index.html"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "game": "Kitchen Table",
+      "question": "How tall is a typical kitchen table compared with a kitchen island?",
+      "answer": "A table is 75 cm tall; an island is 90 cm to the worktop, 15 cm higher.",
+      "objects": [
+        {
+          "name": "Kitchen table",
+          "size_m": 0.75,
+          "page": "https://sizeitup.us/sizes/kitchen-table",
+          "source": "https://www.ikea.com/gb/en/p/moerbylanga-table-oak-veneer-brown-stained-50386245/"
+        },
+        {
+          "name": "Kitchen island",
+          "size_m": 0.9,
+          "page": "https://sizeitup.us/sizes/kitchen-island",
+          "source": "https://www.ikea.com/gb/en/p/tornviken-kitchen-island-off-white-oak-40391657/"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "game": "Kitchen Table",
+      "question": "How many almonds long is a pair of chopsticks?",
+      "answer": "About 9.9. Chopsticks are 24 cm long; a Nonpareil almond kernel is about 2.4 cm.",
+      "objects": [
+        {
+          "name": "Chopsticks",
+          "size_m": 0.24,
+          "page": "https://sizeitup.us/sizes/chopsticks",
+          "source": "https://www.ikea.com/gb/en/p/trebent-chopsticks-4-pairs-bamboo-90342971/"
+        },
+        {
+          "name": "Almond",
+          "size_m": 0.02416,
+          "page": "https://sizeitup.us/sizes/almond",
+          "source": "https://ijabe.org/index.php/ijabe/article/download/1231/pdf"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "game": "Tiny Worlds",
+      "question": "How many red blood cells would fit across the width of a human hair?",
+      "answer": "About 9.1. A hair is 60 to 80 µm thick; a red blood cell is about 7.7 µm across.",
+      "objects": [
+        {
+          "name": "Human hair",
+          "size_m": 0.00007,
+          "page": "https://sizeitup.us/sizes/human-hair-width",
+          "source": "https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=0&id=114258"
+        },
+        {
+          "name": "Red blood cell",
+          "size_m": 0.0000077,
+          "page": "https://sizeitup.us/sizes/red-blood-cell",
+          "source": "https://peir.path.uab.edu/index.php?title=Histologic:Chapter_7"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "game": "Tiny Worlds",
+      "question": "How many E. coli bacteria, end to end, would span the width of a human hair?",
+      "answer": "About 35. An E. coli bacterium is about 2 µm long.",
+      "objects": [
+        {
+          "name": "Human hair",
+          "size_m": 0.00007,
+          "page": "https://sizeitup.us/sizes/human-hair-width",
+          "source": "https://bionumbers.hms.harvard.edu/bionumber.aspx?s=n&v=0&id=114258"
+        },
+        {
+          "name": "E. coli bacterium",
+          "size_m": 0.000002,
+          "page": "https://sizeitup.us/sizes/e-coli",
+          "source": "https://doi.org/10.1186/1741-7007-10-101"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "game": "Tiny Worlds",
+      "question": "How big is a tardigrade (water bear)?",
+      "answer": "About 0.25 mm long. That's smaller than a medium grain of sand, which is 0.25 to 0.5 mm across.",
+      "objects": [
+        {
+          "name": "Tardigrade",
+          "size_m": 0.00025,
+          "page": "https://sizeitup.us/sizes/tardigrade",
+          "source": "https://par.nsf.gov/servlets/purl/10230887"
+        },
+        {
+          "name": "Grain of sand",
+          "size_m": 0.000375,
+          "page": "https://sizeitup.us/sizes/medium-sand-grain",
+          "source": "https://apps.usgs.gov/thesaurus/term-simple.php?code=SC-289&thcode=62"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "game": "Tiny Worlds",
+      "question": "Which coin weighs exactly 1 gram?",
+      "answer": "Japan's 1-yen coin. It's 20 mm across.",
+      "objects": [
+        {
+          "name": "1-yen coin",
+          "size_m": 0.02,
+          "page": "https://sizeitup.us/sizes/japanese-1-yen-coin",
+          "source": "https://www.mint.go.jp/eng/kids-eng/eng_kids_circulating_c.html"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "game": "Tiny Worlds",
+      "question": "How big is a deer tick nymph?",
+      "answer": "About 1.5 mm, the size of a poppy seed.",
+      "objects": [
+        {
+          "name": "Deer tick",
+          "size_m": 0.0015,
+          "page": "https://sizeitup.us/sizes/deer-tick-nymph",
+          "source": "https://cfaes.osu.edu/fact-sheet/blacklegged-deer-tick-ixodes-scapularis"
+        },
+        {
+          "name": "Poppy seed",
+          "size_m": 0.00101,
+          "page": "https://sizeitup.us/sizes/poppy-seed",
+          "source": "https://europepmc.org/article/PMC/PMC10255261"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "game": "Tiny Worlds",
+      "question": "Can you see a human egg cell without a microscope?",
+      "answer": "Just about. It's 110 to 120 µm across, right at the limit of what the eye can see.",
+      "objects": [
+        {
+          "name": "Human egg cell",
+          "size_m": 0.000115,
+          "page": "https://sizeitup.us/sizes/human-egg-cell",
+          "source": "https://europepmc.org/article/PMC/PMC9596637"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "game": "Tiny Worlds",
+      "question": "How many medium grains of sand would fit across a 1 euro cent coin?",
+      "answer": "About 43. The coin is 16.25 mm across; a medium sand grain is 0.25 to 0.5 mm.",
+      "objects": [
+        {
+          "name": "1 euro cent coin",
+          "size_m": 0.01625,
+          "page": "https://sizeitup.us/sizes/euro-1-cent-coin",
+          "source": "https://www.ecb.europa.eu/euro/coins/common/html/index.en.html"
+        },
+        {
+          "name": "Grain of sand",
+          "size_m": 0.000375,
+          "page": "https://sizeitup.us/sizes/medium-sand-grain",
+          "source": "https://apps.usgs.gov/thesaurus/term-simple.php?code=SC-289&thcode=62"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "game": "Tiny Worlds",
+      "question": "Which is longer: a seven-spot ladybug or a honey bee worker?",
+      "answer": "The honey bee, at 10 to 15 mm. A seven-spot ladybug is 5 to 8 mm.",
+      "objects": [
+        {
+          "name": "Honey bee",
+          "size_m": 0.0125,
+          "page": "https://sizeitup.us/sizes/honey-bee-worker",
+          "source": "https://idtools.org/exotic_bee/index.cfm?packageID=1183&entityID=9011"
+        },
+        {
+          "name": "Ladybug",
+          "size_m": 0.0065,
+          "page": "https://sizeitup.us/sizes/seven-spot-ladybird",
+          "source": "https://europepmc.org/article/PMC/PMC8630551"
+        }
+      ]
+    }
+  ]
+}
